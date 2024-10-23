@@ -7,6 +7,7 @@ Use the `.env.example` file as a reference to configure your environment variabl
 
 ### 2. Install Dependencies
 After adding your environment variables, run the following command to install all the required dependencies.
+
 npm install
 
 ### 3. Run the Server
