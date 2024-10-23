@@ -6,7 +6,7 @@ First, create a `.env` file in the root of your project.
 Use the `.env.example` file as a reference to configure your environment variables.
 
 ### 2. Install Dependencies
-After adding your environment variables, run the following command to install all the required dependencies:
+After adding your environment variables, run the following command to install all the required dependencies.
 npm install
 
 ### 3. Run the Server
